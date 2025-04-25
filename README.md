@@ -1,16 +1,17 @@
-## Hi there 👋
+ Profile Summary for Pre-Final Year Student
+I am a pre-final year B.Tech student passionate about technology, problem-solving, and continuous learning. I have hands-on experience with full-stack web development using HTML, CSS, JavaScript, and backend frameworks like Node.js and Spring Boot. I am also exploring areas like IoT, Data Structures & Algorithms, and database management with MongoDB and MySQL. Eager to apply my skills in real-world projects, internships, and collaborative environments to build impactful solutions. I possess strong communication skills, a teamwork mindset, and a growth-oriented attitude.
 
-<!--
-**Bharath-k1/Bharath-k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Optional Additions (Based on Your Skills)
+You can add a line or two if you specialize in:
 
-Here are some ideas to get you started:
+Java / Python / C Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android or iOS App Development
+
+Machine Learning or Data Science
+
+Cloud platforms (AWS, Azure, GCP)
+
+Example:
+
+Currently building projects in Smart Irrigation, E-Learning platforms, and Badminton Court Management to enhance my practical understanding of software systems.
